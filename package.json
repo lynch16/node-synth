@@ -1,0 +1,11 @@
+{
+  "name": "node-synth",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/lynch16/node-synth.git",
+  "author": "Will Lynch <will.lynch91@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "easymidi": "^1.0.1"
+  }
+}
